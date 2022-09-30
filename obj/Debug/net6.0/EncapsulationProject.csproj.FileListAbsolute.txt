@@ -1,0 +1,15 @@
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\bin\Debug\net6.0\EncapsulationProject.exe
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\bin\Debug\net6.0\EncapsulationProject.deps.json
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\bin\Debug\net6.0\EncapsulationProject.runtimeconfig.json
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\bin\Debug\net6.0\EncapsulationProject.dll
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\bin\Debug\net6.0\EncapsulationProject.pdb
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\obj\Debug\net6.0\EncapsulationProject.csproj.AssemblyReference.cache
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\obj\Debug\net6.0\EncapsulationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\obj\Debug\net6.0\EncapsulationProject.AssemblyInfoInputs.cache
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\obj\Debug\net6.0\EncapsulationProject.AssemblyInfo.cs
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\obj\Debug\net6.0\EncapsulationProject.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\obj\Debug\net6.0\EncapsulationProject.dll
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\obj\Debug\net6.0\refint\EncapsulationProject.dll
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\obj\Debug\net6.0\EncapsulationProject.pdb
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\obj\Debug\net6.0\EncapsulationProject.genruntimeconfig.cache
+C:\Users\Serhii\Desktop\bitroot\11\EncapsulationProject\obj\Debug\net6.0\ref\EncapsulationProject.dll
